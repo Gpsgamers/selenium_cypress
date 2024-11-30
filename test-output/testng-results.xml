@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-30T20:57:13 IST" name="Suite" finished-at="2024-11-30T20:57:43 IST" duration-ms="29726">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.cypress@436813f3]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.Runner@a1153bc]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-11-30T20:57:13 IST" name="selenium" finished-at="2024-11-30T20:57:19 IST" duration-ms="5791">
+      <class name="runners.Runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.Runner@a1153bc]" started-at="2024-11-30T20:57:13 IST" name="setUpClass" finished-at="2024-11-30T20:57:13 IST" duration-ms="166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@682b2fa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="browserlaunchconfiguration(java.lang.String,java.lang.String)[pri:0, instance:runners.Runner@a1153bc]" started-at="2024-11-30T20:57:13 IST" name="browserlaunchconfiguration" finished-at="2024-11-30T20:57:18 IST" duration-ms="5363" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunchconfiguration -->
+        <test-method is-config="true" signature="browserQuitconfiguration()[pri:0, instance:runners.Runner@a1153bc]" started-at="2024-11-30T20:57:18 IST" name="browserQuitconfiguration" finished-at="2024-11-30T20:57:19 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuitconfiguration -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.Runner@a1153bc]" started-at="2024-11-30T20:57:19 IST" name="tearDownClass" finished-at="2024-11-30T20:57:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runners.Runner -->
+    </test> <!-- selenium -->
+    <test started-at="2024-11-30T20:57:13 IST" name="cypress" finished-at="2024-11-30T20:57:43 IST" duration-ms="29726">
+      <class name="runners.cypress">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runners.cypress@436813f3]" started-at="2024-11-30T20:57:13 IST" name="setUpClass" finished-at="2024-11-30T20:57:13 IST" duration-ms="166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@229f66ed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="browserlaunchconfiguration(java.lang.String,java.lang.String)[pri:0, instance:runners.cypress@436813f3]" started-at="2024-11-30T20:57:13 IST" name="browserlaunchconfiguration" finished-at="2024-11-30T20:57:43 IST" duration-ms="29543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunchconfiguration -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.cypress@436813f3]" started-at="2024-11-30T20:57:43 IST" name="tearDownClass" finished-at="2024-11-30T20:57:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runners.cypress -->
+    </test> <!-- cypress -->
+  </suite> <!-- Suite -->
+</testng-results>
