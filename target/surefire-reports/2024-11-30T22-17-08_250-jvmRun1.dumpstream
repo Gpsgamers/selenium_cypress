@@ -1,0 +1,153 @@
+# Created at 2024-11-30T22:17:18.317
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '================================================================================'.
+
+# Created at 2024-11-30T22:17:18.319
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Run Starting)'.
+
+# Created at 2024-11-30T22:17:18.321
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-11-30T22:17:18.323
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Cypress:        13.16.0                                                                        │'.
+
+# Created at 2024-11-30T22:17:18.324
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Browser:        Chrome 131                                                                     │'.
+
+# Created at 2024-11-30T22:17:18.325
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Node Version:   v22.11.0 (C:\Program Files\nodejs\node.exe)                                    │'.
+
+# Created at 2024-11-30T22:17:18.326
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Specs:          2 found (spec.cy.js, test1.cy.js)                                              │'.
+
+# Created at 2024-11-30T22:17:18.327
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Searched:       cypress/e2e/**/*.cy.{js,jsx,ts,tsx}                                            │'.
+
+# Created at 2024-11-30T22:17:18.327
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-11-30T22:17:18.329
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '────────────────────────────────────────────────────────────────────────────────────────────────────'.
+
+# Created at 2024-11-30T22:17:24.524
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  Running:  spec.cy.js                                                                      (1 of 2)'.
+
+# Created at 2024-11-30T22:17:24.525
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  template spec'.
+
+# Created at 2024-11-30T22:17:24.528
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    √ passes (307ms)'.
+
+# Created at 2024-11-30T22:17:24.531
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  1 passing (2s)'.
+
+# Created at 2024-11-30T22:17:24.532
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Results)'.
+
+# Created at 2024-11-30T22:17:24.533
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-11-30T22:17:24.534
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Tests:        1                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.534
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Passing:      1                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.535
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Failing:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.537
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Pending:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.538
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Skipped:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.538
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Screenshots:  0                                                                                │'.
+
+# Created at 2024-11-30T22:17:24.539
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Video:        false                                                                            │'.
+
+# Created at 2024-11-30T22:17:24.540
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Duration:     2 seconds                                                                        │'.
+
+# Created at 2024-11-30T22:17:24.541
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Spec Ran:     spec.cy.js                                                                       │'.
+
+# Created at 2024-11-30T22:17:24.650
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-11-30T22:17:24.651
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '────────────────────────────────────────────────────────────────────────────────────────────────────'.
+
+# Created at 2024-11-30T22:17:34.389
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  Running:  test1.cy.js                                                                     (2 of 2)'.
+
+# Created at 2024-11-30T22:17:34.393
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  √ Google search (6040ms)'.
+
+# Created at 2024-11-30T22:17:34.396
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  1 passing (8s)'.
+
+# Created at 2024-11-30T22:17:34.396
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Results)'.
+
+# Created at 2024-11-30T22:17:34.397
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-11-30T22:17:34.398
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Tests:        1                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.399
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Passing:      1                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.400
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Failing:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.401
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Pending:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.402
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Skipped:      0                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.402
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Screenshots:  0                                                                                │'.
+
+# Created at 2024-11-30T22:17:34.403
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Video:        false                                                                            │'.
+
+# Created at 2024-11-30T22:17:34.403
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Duration:     8 seconds                                                                        │'.
+
+# Created at 2024-11-30T22:17:34.405
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Spec Ran:     test1.cy.js                                                                      │'.
+
+# Created at 2024-11-30T22:17:37.681
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-11-30T22:17:37.685
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '================================================================================'.
+
+# Created at 2024-11-30T22:17:37.685
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Run Finished)'.
+
+# Created at 2024-11-30T22:17:37.686
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '       Spec                                              Tests  Passing  Failing  Pending  Skipped  '.
+
+# Created at 2024-11-30T22:17:37.687
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-11-30T22:17:37.687
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ √  spec.cy.js                               00:02        1        1        -        -        - │'.
+
+# Created at 2024-11-30T22:17:37.689
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ├────────────────────────────────────────────────────────────────────────────────────────────────┤'.
+
+# Created at 2024-11-30T22:17:37.690
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ √  test1.cy.js                              00:08        1        1        -        -        - │'.
+
+# Created at 2024-11-30T22:17:37.690
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-11-30T22:17:37.890
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    √  All specs passed!                        00:10        2        2        -        -        -  '.
+

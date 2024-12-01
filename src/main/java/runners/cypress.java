@@ -20,7 +20,7 @@ public class cypress extends AbstractTestNGCucumberTests  {
 		try {
 			String os = System.getProperty("os.name").toLowerCase();
 			String command;
-			String cmd = "npx cypress run --browser";
+			String cmd = "npx cypress run --headed --browser";
 			if (os.contains("win")) {
 				command = "cmd.exe"; // Windows
 				ProcessBuilder pb = new ProcessBuilder(command, "/c", cmd, browser);

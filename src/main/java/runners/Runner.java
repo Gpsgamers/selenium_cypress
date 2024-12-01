@@ -43,7 +43,8 @@ public class Runner extends AbstractTestNGCucumberTests {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		driver.get(url);
-		System.out.println("nuooo");		
+		System.out.println("nuooo");
+		Thread.sleep(20000);
 	}
 	
 	@AfterClass

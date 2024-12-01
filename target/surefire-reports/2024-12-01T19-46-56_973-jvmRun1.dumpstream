@@ -1,0 +1,102 @@
+# Created at 2024-12-01T19:47:11.091
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '================================================================================'.
+
+# Created at 2024-12-01T19:47:11.093
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Run Starting)'.
+
+# Created at 2024-12-01T19:47:11.095
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-12-01T19:47:11.096
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Cypress:        13.16.0                                                                        │'.
+
+# Created at 2024-12-01T19:47:11.098
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Browser:        Chrome 131                                                                     │'.
+
+# Created at 2024-12-01T19:47:11.099
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Node Version:   v22.11.0 (C:\Program Files\nodejs\node.exe)                                    │'.
+
+# Created at 2024-12-01T19:47:11.100
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Specs:          2 found (spec.cy.js, test1.cy.js)                                              │'.
+
+# Created at 2024-12-01T19:47:11.100
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Searched:       cypress/e2e/**/*.cy.{js,jsx,ts,tsx}                                            │'.
+
+# Created at 2024-12-01T19:47:11.101
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-12-01T19:47:11.103
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '────────────────────────────────────────────────────────────────────────────────────────────────────'.
+
+# Created at 2024-12-01T19:47:18.773
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  Running:  spec.cy.js                                                                      (1 of 2)'.
+
+# Created at 2024-12-01T19:47:18.776
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  template spec'.
+
+# Created at 2024-12-01T19:47:18.777
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '    √ passes (1013ms)'.
+
+# Created at 2024-12-01T19:47:18.780
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  1 passing (3s)'.
+
+# Created at 2024-12-01T19:47:18.781
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  (Results)'.
+
+# Created at 2024-12-01T19:47:18.782
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐'.
+
+# Created at 2024-12-01T19:47:18.783
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Tests:        1                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.784
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Passing:      1                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.785
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Failing:      0                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.786
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Pending:      0                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.786
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Skipped:      0                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.788
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Screenshots:  0                                                                                │'.
+
+# Created at 2024-12-01T19:47:18.788
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Video:        false                                                                            │'.
+
+# Created at 2024-12-01T19:47:18.789
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Duration:     2 seconds                                                                        │'.
+
+# Created at 2024-12-01T19:47:18.790
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  │ Spec Ran:     spec.cy.js                                                                       │'.
+
+# Created at 2024-12-01T19:47:18.887
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  └────────────────────────────────────────────────────────────────────────────────────────────────┘'.
+
+# Created at 2024-12-01T19:47:18.889
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '────────────────────────────────────────────────────────────────────────────────────────────────────'.
+
+# Created at 2024-12-01T19:47:23.447
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  Running:  test1.cy.js                                                                     (2 of 2)'.
+
+# Created at 2024-12-01T19:47:23.448
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'We detected that the Chrome browser process closed unexpectedly.'.
+
+# Created at 2024-12-01T19:47:23.666
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'We have failed the current spec and aborted the run.'.
+
+# Created at 2024-12-01T19:47:25.468
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: EXIT
+java.io.EOFException
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.read(AbstractStreamDecoder.java:444)
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.read(AbstractStreamDecoder.java:419)
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.readMessageType(AbstractStreamDecoder.java:116)
+	at org.apache.maven.surefire.booter.stream.CommandDecoder.decode(CommandDecoder.java:77)
+	at org.apache.maven.surefire.booter.spi.CommandChannelDecoder.decode(CommandChannelDecoder.java:60)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:290)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+

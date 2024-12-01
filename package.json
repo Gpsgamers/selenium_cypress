@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:selenium": "mvn test",
+    "test:parallel": "concurrently \"mvn test\" \"npx cypress run\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "concurrently": "^9.1.0",
     "cypress": "^13.16.0"
   }
 }
