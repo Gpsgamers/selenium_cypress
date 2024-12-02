@@ -5,8 +5,8 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"test:selenium": "mvn test",
-		"test:caller": "cypress run --headed --browser chrome --spec cypress/e2e/test1.cy.js",
-		"test:receiver": "cypress run --headed --browser chrome --spec cypress/e2e/test1.cy.js",
+		"test:caller": "cypress run --headed --browser chrome --spec cypress/e2e/caller.cy.js",
+		"test:receiver": "cypress run --headed --browser chrome --spec cypress/e2e/receiver.cy.js",
 		"test:parallel": "concurrently --color --names \"caller,receiver\" --prefix-colors \"cyan,magenta\" \"npm run test:caller\" \"npm run test:receiver\""
 	},
 	"keywords": [],
