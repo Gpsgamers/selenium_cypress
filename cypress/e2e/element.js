@@ -36,7 +36,7 @@ class element {
             offline: true,
             latency: 0,
             downloadThroughput: 0,
-            uploadThroughput: -0,
+            uploadThroughput: 0,
           },
         })
     });
