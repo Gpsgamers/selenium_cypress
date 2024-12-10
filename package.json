@@ -14,10 +14,15 @@
 	"license": "ISC",
 	"description": "",
 	"devDependencies": {
+		"@bahmutov/cypress-esbuild-preprocessor": "^2.2.3",
 		"chrome-remote-interface": "^0.33.2",
 		"concurrently": "^9.1.0",
 		"cypress": "^13.16.0",
 		"cypress-split": "^1.24.6",
 		"portfinder": "^1.0.32"
+	},
+	"dependencies": {
+		"@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+		"@cypress/webpack-preprocessor": "^6.0.2"
 	}
 }

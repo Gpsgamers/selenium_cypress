@@ -9,7 +9,7 @@ module.exports = defineConfig({
           launchOptions.args.push('--use-fake-ui-for-media-stream');
           launchOptions.args.push('--use-fake-device-for-media-stream');
           launchOptions.args.push('--disable-popup-blocking');
-          launchOptions.args.push('--allow-file-access-from-files'); // Optional for file testing
+          launchOptions.args.push('--allow-file-access-from-files');
         }
         return launchOptions;
       });
