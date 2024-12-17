@@ -11,7 +11,7 @@ const element = {
 
 
   register:function(number){
-    cy.get(this.country).should('be.visible', { timeout: 15000 });
+    cy.get(this.country).should('be.visible', { timeout: 20000 });
     cy.get(this.numberField).type(number);
     cy.get(this.continue_btn).click();
     cy.get(this.verifyotp_btn ).click();

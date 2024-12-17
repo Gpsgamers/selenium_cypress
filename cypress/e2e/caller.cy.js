@@ -7,7 +7,7 @@ describe('Login Page Test', () => {
         cy.viewport(1920, 1080); 
         cy.visit("https://webchat-uikit-qa.contus.us/");
         element.register("7358337102");
-        cy.get('.callLogCount').click();
+        cy.get('.callLogCount').should('be.visible', { timeout: 20000 }).click();
         cy.get('.FloatingCallAction').click();
         cy.get('[title="Audio call"]').click();
         cy.get(':nth-child(2) > .contactlist > .search > .search-contacts').type("kogila M");

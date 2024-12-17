@@ -17,9 +17,9 @@ describe('Login Page Test', () => {
         //       res.send({ message: 'This is a delayed response' }); // Mock response
         //     });
         // }).as('getDelayedResponse');
-        // cy.intercept('GET', 'wss://janus.mirrorfly.com/', { forceNetworkError: true });
+        cy.intercept('GET', 'wss://janus.mirrorfly.com/', { forceNetworkError: true });
         element.goOffline();
-        //cy.intercept('GET', 'wss://janus.mirrorfly.com/', { forceNetworkError: false });
+        cy.intercept('GET', 'wss://janus.mirrorfly.com/', { forceNetworkError: false });
         cy.wait(8000);
         element.goOnline();
         cy.wait(16000);
